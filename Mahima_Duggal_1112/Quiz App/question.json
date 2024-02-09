@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of Canada?",
+    "options": ["Ottawa", "Toronto", "Vancouver"]
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter"]
+  },
+  {
+    "id": 3,
+    "question": "In which year was the Declaration of Independence signed?",
+    "options": ["1776", "1789", "1800"]
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Jane Austen", "Charles Dickens"]
+  },
+  {
+    "id": 5,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "South Korea"]
+  },
+  {
+    "id": 6,
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe"]
+  },
+  {
+    "id": 7,
+    "question": "Which programming language is often used for web development?",
+    "options": ["Java", "Python", "JavaScript"]
+  },
+  {
+    "id": 8,
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"]
+  },
+  {
+    "id": 9,
+    "question": "What is the currency of Brazil?",
+    "options": ["Euro", "Dollar", "Real"]
+  },
+  {
+    "id": 10,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"]
+  },
+  {
+    "id": 11,
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean"]
+  },
+  {
+    "id": 12,
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra"]
+  },
+  {
+    "id": 13,
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Rosa Parks", "Mother Teresa"]
+  },
+  {
+    "id": 14,
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "options": ["Norway", "Sweden", "Finland"]
+  },
+  {
+    "id": 15,
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arctic Desert", "Gobi Desert"]
+  },
+  {
+    "id": 16,
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie"]
+  },
+  {
+    "id": 17,
+    "question": "In which year did the Titanic sink?",
+    "options": ["1905", "1912", "1920"]
+  },
+  {
+    "id": 18,
+    "question": "What is the smallest prime number?",
+    "options": ["1", "2", "3"]
+  },
+  {
+    "id": 19,
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "J.K. Rowling", "George Orwell"]
+  },
+  {
+    "id": 20,
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide"]
+  }
+]
